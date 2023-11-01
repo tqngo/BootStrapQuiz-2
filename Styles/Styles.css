@@ -1,0 +1,41 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+
+.padCard {
+    padding-top: 40px;
+}
+
+.loremText {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.colorP {
+    background-color: #6B66E0;
+}
+
+.colorR{
+    background-color: #AF5555;
+}
+
+.colorG {
+    background-color: #7AF470;
+}
+
+.colorB {
+    background-color: #4AE6DA;
+}
+
+
+.cardC {
+    background-color: #E2D0D0;
+}
